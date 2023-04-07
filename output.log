@@ -1,0 +1,12 @@
+uname -a
+start time: Fri Apr  7 23:09:11 2023
+end time: Fri Apr  7 23:09:11 2023
+/sbin/ifconfig
+start time: Fri Apr  7 23:09:11 2023
+end time: Fri Apr  7 23:09:11 2023
+./hw1 500
+start time: Fri Apr  7 23:09:11 2023
+end time: Fri Apr  7 23:09:11 2023
+./hw1 1000
+start time: Fri Apr  7 23:09:12 2023
+end time: Fri Apr  7 23:09:12 2023
